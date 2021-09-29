@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.85e1de72.chunk.css",
+    "main.js": "/static/js/main.fec7e1b5.chunk.js",
+    "main.js.map": "/static/js/main.fec7e1b5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.745d8e5d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.745d8e5d.js.map",
+    "static/js/2.15c40339.chunk.js": "/static/js/2.15c40339.chunk.js",
+    "static/js/2.15c40339.chunk.js.map": "/static/js/2.15c40339.chunk.js.map",
+    "static/js/3.22e19ae8.chunk.js": "/static/js/3.22e19ae8.chunk.js",
+    "static/js/3.22e19ae8.chunk.js.map": "/static/js/3.22e19ae8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.85e1de72.chunk.css.map": "/static/css/main.85e1de72.chunk.css.map",
+    "static/js/2.15c40339.chunk.js.LICENSE.txt": "/static/js/2.15c40339.chunk.js.LICENSE.txt",
+    "static/media/death-star.cb385dd9.png": "/static/media/death-star.cb385dd9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.745d8e5d.js",
+    "static/js/2.15c40339.chunk.js",
+    "static/css/main.85e1de72.chunk.css",
+    "static/js/main.fec7e1b5.chunk.js"
+  ]
+}
